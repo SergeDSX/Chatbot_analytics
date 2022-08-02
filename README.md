@@ -3,6 +3,6 @@
 
 [Аналитика сообщений чат-бота](https://github.com/SergeDSX/Chatbot_analytics/blob/main/Messages_analytics.ipynb) - расчёт и анализ эффективности сценария чат-бота на основе метрик конверсии в заказ, в посещение отдельных разделов, определение ключевых сценариев оттока пользователей, а также расчёт ряда поведенческих метрик, специфичных для данного бота.
 
-...to be continued.
+[Аналитика заказов чат-бота](https://github.com/SergeDSX/Chatbot_analytics/blob/main/Product_metrics.ipynb) - расчёт некоторых классических продуктовых метрик: DAU, WAU, MAU, Retention, CR, LT. 
 
 
